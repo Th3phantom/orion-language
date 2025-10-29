@@ -1,0 +1,5 @@
+print: "Hello from the RIGHT location!"
+print: "Now the compiler can find me!"
+let location = "CORRECT"
+print: File location is:
+print: location
