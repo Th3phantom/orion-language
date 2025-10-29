@@ -4,6 +4,9 @@
 
 Orion Compiler transforms .orion files into Python magic. From "print: Hello" to running code - witness my first compiler! ✨
 
+```markdown
+![Orion Compiler Demo](demo.png) 
+
 ## Features
 - `print: "Hello"` → Executable Python
 - `let` variable declarations  
